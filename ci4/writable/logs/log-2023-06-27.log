@@ -1,0 +1,21 @@
+CRITICAL - 2023-06-27 04:09:16 --> Array callback must have exactly two elements
+in APPPATH\Controllers\post.php on line 51.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Post->update('4')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab12_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-06-27 04:10:30 --> Array callback must have exactly two elements
+in APPPATH\Controllers\post.php on line 51.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Post->update('2')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab12_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-06-27 04:13:01 --> Array callback must have exactly two elements
+in APPPATH\Controllers\post.php on line 51.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Post->update('2')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab12_php_ci\\ci4\\public\\index.php')
