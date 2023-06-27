@@ -11,7 +11,6 @@
 ---
 
 ![gambar](README_img/Codeigniter.png)
-
 ![gambar](README_img/postman_logo.png)
 
 # <p align="center">Praktikum 12: API</p>
@@ -186,9 +185,7 @@ php spark routes
 - Selanjutnya akan muncul daftar route yang telah dibuat.
 
 ![Routes](README_img/routes1.png)
-
 ![Routes](README_img/routes2.png)
-
 ![Routes](README_img/routes3.png)
 
 - Seperti yang terlihat, satu baris kode routes yang di tambahkan akan menghasilkan banyak
